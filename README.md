@@ -1,3 +1,4 @@
+
 # SmartLogix-AMR
 Evaluciones FullStack III
 # SmartLogix — Backend Microservicios
@@ -300,3 +301,6 @@ SmartLogix/
 ```
 POST /pedidos  →  crea Pedido  →  EnvioClient.crearEnvio()  →  POST /envios
 DELETE /pedidos/{id}  →  EnvioClient.eliminarEnviosPorPedido()  →  DELETE /envios/pedido/{id}
+=======
+# SmartLogix-backend-ruben-maximiliano-alejandro
+>>>>>>> 2618fe4cf0e0fdb9f4faf5bdf5066c792061d0c9
